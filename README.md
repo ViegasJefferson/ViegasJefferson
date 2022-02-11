@@ -17,3 +17,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViegasJefferson&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViegasJefferson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/ViegasJefferson/ViegasJefferson/output/github-contribution-grid-snake.svg)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
